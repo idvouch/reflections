@@ -1,1 +1,5 @@
 
+When would you want to use a remote repository rather than keeping all your work local?
+
+I would rather use a remote repository rather than keeping thing local when I am collaborating with team mates and peers on a project.
+Moreso, when I want to keep a reference of different states of the app, aimed at making changes without any fear of introducing errors.
